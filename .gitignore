@@ -1,2 +1,5 @@
-# node_modules package
+# Depedency directories
 node_modules
+
+.vscode
+.idea
